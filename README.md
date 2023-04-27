@@ -3,7 +3,7 @@ My name is Tre'Nyce Price - I am an inspiring software developer, frontend devel
 
 ⚒️Languages/Tools 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,firebase,figma,nodejs,mongodb,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,firebase,figma,nodejs,mongodb,mysql,vscode)](https://skillicons.dev)
 
 📊Github Stats
 
@@ -19,3 +19,7 @@ My Portfolio Website
 🧠 I'm currently learning...
 
 Understanding JavaScript and Css language
+
+🧠 Planning on learning...
+
+[![My Skills](https://skillicons.dev/icons?i=python,java,flask,github,react,swift,typescript)](https://skillicons.dev)
