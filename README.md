@@ -1,5 +1,5 @@
 # About Me
-My name is Tre'Nyce Price - I am an inspiring software developer, frontend developer, and a high school student. I am interested in cybersecurity, Software engineering, solving problems with coding, doing open-source collaborations, and
+My name is Tre'Nyce Price - I am an inspiring software developer, frontend developer, and a high school student. I am interested in cybersecurity, Software engineering, solving problems with coding, doing open-source collaborations, and becoming a better coder/programmer everyday 
 
 ⚒️Languages/Tools 
 
