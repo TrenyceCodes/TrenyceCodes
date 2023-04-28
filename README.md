@@ -1,5 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is TreNyce Price 
-=====================================================================================================================================  Inspiring software engineer ---------------------------  
+=====================================================================================================================================  
+
+Inspiring software engineer ---------------------------  
+
 I am an inspiring software developer, frontend developer, and a high school student. I am interested in cybersecurity, Software engineering, solving problems with coding, doing open-source collaborations, and becoming a better coder/programmer everyday  * 🌍  I'm based in North Carolina * 🖥️  See my portfolio at [My Portfolio Website](http://neice76-portfolio.vercel.app/) * 🧠  I'm learning Relearning a JavaScript basics
 
 # Skills  
