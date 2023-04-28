@@ -6,7 +6,10 @@ My name is TreNyce Price
 Inspiring software engineer 
 ---------------------------  
 
-I am an inspiring software developer, frontend developer, and a high school student. I am interested in cybersecurity, Software engineering, solving problems with coding, doing open-source collaborations, and becoming a better coder/programmer everyday  * 🌍  I'm based in North Carolina * 🖥️  See my portfolio at [My Portfolio Website](http://neice76-portfolio.vercel.app/) * 🧠  I'm learning Relearning a JavaScript basics
+I am an inspiring software developer, frontend developer, and a high school student. I am interested in cybersecurity, Software engineering, solving problems with coding, doing open-source collaborations, and becoming a better coder/programmer everyday  
+🌍  I'm based in North Carolina 
+🖥️  See my portfolio at [My Portfolio Website](http://neice76-portfolio.vercel.app/) 
+🧠  I'm learning Relearning a JavaScript basics
 
 # Skills  
 
