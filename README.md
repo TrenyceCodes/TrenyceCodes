@@ -7,8 +7,7 @@ My name is Tre'Nyce Price - I am an inspiring software developer, frontend devel
 
 📊Github Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Neice76&theme=solarized-dark)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Neice76)](https://git.io/streak-stats)
 
 👩‍💻 I'm currently working on...
 
