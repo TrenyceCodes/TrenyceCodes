@@ -22,7 +22,10 @@ I am an inspiring software developer, frontend developer, and a high school stud
 </p>
 
 # Socials	
-<p align="left"> <a href="https://www.github.com/neice76" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+<p align="left"> 
+    <a href="https://www.github.com/neice76" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+    <a href="https://www.instagram.com/trenyce.codes/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32"/></a>
+</p>
 
     
 # Badges
