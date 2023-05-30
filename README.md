@@ -32,6 +32,6 @@ I am an inspiring software developer, frontend developer, and a high school stud
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/neice76"><img src="https://github-readme-stats.vercel.app/api?username=neice76&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&show_icons=true" alt="neice76's GitHub stats" /></a>
-<a href="http://www.github.com/neice76"><img src="https://github-readme-streak-stats.herokuapp.com/?user=neice76&stroke=ffffff&background=000000&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-<a href="https://github.com/neice76" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neice76&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/trenycecodes"><img src="https://github-readme-stats.vercel.app/api?username=neice76&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&show_icons=true" alt="neice76's GitHub stats" /></a>
+<a href="http://www.github.com/trenycecodes"><img src="https://github-readme-streak-stats.herokuapp.com/?user=neice76&stroke=ffffff&background=000000&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/trenycecodes" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neice76&langs_count=10&title_color=6366f1&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
