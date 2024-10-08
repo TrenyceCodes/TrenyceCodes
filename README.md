@@ -8,16 +8,16 @@ I am a freshman at University of Phoenix(UPOX) working towards my Bachelors in C
 - Projects: Building apps and tools that solve real-world problems.
 
 ### 💻 Languages and Tools
-<div align="center">
-![HTML Badge](https://img.shields.io/badge/%20%20%20%20%20%20%20%20%20html5-plain%20colored?style=for-the-badge&logo=html5&logoColor=white&color=%23E34F26) 
-![Static Badge](https://img.shields.io/badge/css3-plain?style=for-the-badge&logo=css3&logoColor=white&color=%231572B6)
-![Static Badge](https://img.shields.io/badge/javascript-plain?style=for-the-badge&logo=javascript&logoColor=white&color=%23F0DB4F) 
+![HTML Badge](https://img.shields.io/badge/%20%20%20%20%20%20%20%20%20html5-plain%20colored?style=for-the-badge&logo=html5&logoColor=white&color=%23E34F26)
+![Static Badge](https://img.shields.io/badge/css3-plain?style=for-the-badge&logo=css3&logoColor=white&color=%231572B6) 
+![Static Badge](https://img.shields.io/badge/javascript-plain?style=for-the-badge&logo=javascript&logoColor=white&color=%23F0DB4F)
+![Static Badge](https://img.shields.io/badge/python-plain?style=for-the-badge&logo=python&logoColor=white&labelColor=%23386f9f&color=yellow) 
+![Static Badge](https://img.shields.io/badge/typescript-plain?style=for-the-badge&logo=typescript&logoColor=white&color=%23007acc)  
 ![Static Badge](https://img.shields.io/badge/nodejs-plain?style=for-the-badge&logo=nodedotjs&logoColor=white&color=%235fa04e)
 ![Static Badge](https://img.shields.io/badge/firebase-plain?style=for-the-badge&logo=firebase&logoColor=white&color=%23ffa000) 
-![Static Badge](https://img.shields.io/badge/typescript-plain?style=for-the-badge&logo=typescript&logoColor=white&color=%23007acc)
 ![Static Badge](https://img.shields.io/badge/mysql-plain?style=for-the-badge&logo=mysql&logoColor=white&labelColor=%23386f9f&color=orange) 
-![Static Badge](https://img.shields.io/badge/python-plain?style=for-the-badge&logo=python&logoColor=white&labelColor=%23386f9f&color=yellow)
-</div>
+
+
 
 ### 🌱 What I’m Learning
 - Python and building web servers using Flask
