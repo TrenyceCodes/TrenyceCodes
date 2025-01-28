@@ -20,7 +20,7 @@ I am a freshman at University of Phoenix(UPOX) working towards my Bachelors in C
 
 
 ### 🌱 What I’m Learning
-- Python and building web servers using Flask
+- Python and building web servers using Flask and Django
 - Mastering Data Structures and Algorithms
 - Enhancing my skills in Typescript and Node.js
 
