@@ -30,7 +30,8 @@ I am a freshman at University of Phoenix(UPOX) working towards my Bachelors in C
 
 ### 📫 How to reach me
 - Email: trenyceprice2@gmail.com
-- LinkedIn: [Trenyce Price](https://www.linkedin.com/in/trenyce-price-627627321/)
+- LinkedIn: [TreNyce Price](https://www.linkedin.com/in/trenyce-price-627627321/)
+- Portfolio Website: [TreNyce Price Portfolio](https://portfolio-website-teal-xi-43.vercel.app/)
 
 ### Github Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trenycecodes&hide_progress=true&theme=material-palenight)
