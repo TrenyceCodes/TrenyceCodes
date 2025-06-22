@@ -4,7 +4,7 @@
 I am a freshman at University of Phoenix(UPOX) working towards my Bachelors in Computer Science. I mainly explore my freetime building projects, learning new technologies, and growing my skills to a software developer and data analytics(or analysis). 
 
 ### 🔭 Current Focus
-- Learning: Deepening my knowledge in Python, and Web Development.
+- Learning: Deepening my knowledge in Python, Web Development and C.
 - Projects: Building apps and tools that solve real-world problems.
 
 ### 💻 Languages and Tools
@@ -16,7 +16,6 @@ I am a freshman at University of Phoenix(UPOX) working towards my Bachelors in C
 ![Static Badge](https://img.shields.io/badge/nodejs-plain?style=for-the-badge&logo=nodedotjs&logoColor=white&color=%235fa04e)
 ![Static Badge](https://img.shields.io/badge/firebase-plain?style=for-the-badge&logo=firebase&logoColor=white&color=%23ffa000) 
 ![Static Badge](https://img.shields.io/badge/mysql-plain?style=for-the-badge&logo=mysql&logoColor=white&labelColor=%23386f9f&color=orange) 
-
 
 
 ### 🌱 What I’m Learning
