@@ -16,7 +16,6 @@ I am a sophomore at University of Phoenix(UPOX) working towards my Bachelors in 
 ![Static Badge](https://img.shields.io/badge/nodejs-plain?style=for-the-badge&logo=nodedotjs&logoColor=white&color=%235fa04e)
 ![Static Badge](https://img.shields.io/badge/firebase-plain?style=for-the-badge&logo=firebase&logoColor=white&color=%23ffa000) 
 ![Static Badge](https://img.shields.io/badge/mysql-plain?style=for-the-badge&logo=mysql&logoColor=white&labelColor=%23386f9f&color=orange) 
-![Static Badge](https://img.shields.io/badge/C?style=flat-square&logoColor=ffffff)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
 ### 🌱 What I’m Learning
