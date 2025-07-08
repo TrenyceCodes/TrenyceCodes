@@ -1,7 +1,7 @@
 
 ## Hi there I'm TreNyce![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-I am a freshman at University of Phoenix(UPOX) working towards my Bachelors in Computer Science. I mainly explore my freetime building projects, learning new technologies, and growing my skills to a software developer and data analytics(or analysis). 
+I am a sophomore at University of Phoenix(UPOX) working towards my Bachelors in Computer Science. I mainly explore my freetime building projects, learning new technologies, and growing my skills to a software developer and data analytics(or analysis). 
 
 ### 🔭 Current Focus
 - Learning: Deepening my knowledge in Python, Web Development and C.
