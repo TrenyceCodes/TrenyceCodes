@@ -4,7 +4,7 @@
 I am a sophomore at University of Phoenix(UPOX) working towards my Bachelors in Computer Science. I mainly explore my freetime building projects, learning new technologies, and growing my skills to a software developer and data analytics(or analysis). 
 
 ### 🔭 Current Focus
-- Learning: Deepening my knowledge in Python, Web Development and C.
+- Learning: Deepening my knowledge in Math, DSA and Algorithmns.
 - Projects: Building apps and tools that solve real-world problems.
 
 ### 💻 Languages and Tools
@@ -19,9 +19,8 @@ I am a sophomore at University of Phoenix(UPOX) working towards my Bachelors in 
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 
 ### 🌱 What I’m Learning
-- Python and building web servers using Flask and Django
 - Mastering Data Structures and Algorithms
-- Enhancing my skills in Typescript and Node.js
+- Enhancing my skills in C++ and Math
 
 ### 🎯 Goals
 - Improve my coding skills every day
